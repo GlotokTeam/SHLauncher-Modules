@@ -1,5 +1,5 @@
 # Это как фильтрация почек. Модуль который обновляться не собирается в угоду нормальной установке обновления
-from tkinter import messagebox as mb # Уведы
+#from tkinter import messagebox as mb # Уведы # Реализовать
 import logging as log # Логирование
 import winreg as _winreg # Узкое горлышко, поскольку лень делать общие конфиги
 import zipfile # Распаковка .fxa архивов (псевдо)
