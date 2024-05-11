@@ -11,4 +11,4 @@ with open(name, 'rb') as f:
         hsh.update(data)
     rez = hsh.hexdigest()
     print(rez + " | SHA 256")
-time.sleep('20')
+time.sleep(20)
