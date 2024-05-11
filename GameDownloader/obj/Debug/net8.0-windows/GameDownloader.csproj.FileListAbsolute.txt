@@ -1,0 +1,16 @@
+D:\SHLauncher\GameDownloader\bin\Debug\net8.0-windows\GameDownloader.exe
+D:\SHLauncher\GameDownloader\bin\Debug\net8.0-windows\GameDownloader.deps.json
+D:\SHLauncher\GameDownloader\bin\Debug\net8.0-windows\GameDownloader.runtimeconfig.json
+D:\SHLauncher\GameDownloader\bin\Debug\net8.0-windows\GameDownloader.dll
+D:\SHLauncher\GameDownloader\bin\Debug\net8.0-windows\GameDownloader.pdb
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.Form1.resources
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.csproj.GenerateResource.cache
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.AssemblyInfoInputs.cache
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.AssemblyInfo.cs
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.csproj.CoreCompileInputs.cache
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.dll
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\refint\GameDownloader.dll
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.pdb
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\GameDownloader.genruntimeconfig.cache
+D:\SHLauncher\GameDownloader\obj\Debug\net8.0-windows\ref\GameDownloader.dll
