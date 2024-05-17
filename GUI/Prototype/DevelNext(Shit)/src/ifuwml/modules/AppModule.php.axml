@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="AppModule">
+    
+  <method name="doHotkeyAction">
+      <message kind="WARNING" kind-type="string" value="Ddsd" value-type="string" wait="" wait-type=""/>
+    </method>
+  </class>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    <method name="doLinkClick">
+      <browse url="https://ameterius.github.io/shlauncher/index.html" url-type="string"/>
+    </method>
+  <method name="doLinkAltClick">
+      <browse url="https://www.donationalerts.com/r/ametero" url-type="string"/>
+    </method>
+  </class>
+</root>

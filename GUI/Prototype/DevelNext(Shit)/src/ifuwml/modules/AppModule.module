@@ -1,0 +1,13 @@
+{
+  "props": [],
+  "components": {
+    "hotkey": {
+      "type": "script\\HotKeyScript",
+      "x": 144.0,
+      "y": 288.0,
+      "props": {
+        "key": "Ctrl + Shift + O"
+      }
+    }
+  }
+}
